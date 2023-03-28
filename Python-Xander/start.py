@@ -1,7 +1,3 @@
-## Import stuff
-import dev
-import os
-
 wel = "Hello, I'm Xander... Made in Python, How may I help you?"
 po = "Please pick a option: "
 ## User option:
@@ -20,7 +16,7 @@ while True:
         break
 # process the input
 if option == "1": 
-    os.system("dev.py")
+    import dev
 elif option == "2": 
     print ("edit me")
 elif option == "3": 
