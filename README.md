@@ -1,5 +1,5 @@
 # Python-Xander
-*Something that Xander made cuz he's learning how to code python.*
+*A terminal-based Python tool made by.. you guess it, **Xander**
 
 Run **start.py** if you wanna try Python-Xander!
 
