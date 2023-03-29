@@ -5,6 +5,9 @@ import os
 import time
 import pickle
 
+os.system('cls')
+
+
 # check for extraction directories existence
 if not os.path.isdir('downloaded'):
     os.makedirs('downloaded')
