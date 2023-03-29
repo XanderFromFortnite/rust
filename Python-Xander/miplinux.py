@@ -6,6 +6,6 @@ import signal
 ipt = "Your ip address is: "
 
 print (ipt)
-(os.system('hostname -i'))
+(os.system(''))
 
 signal.pause()
