@@ -24,7 +24,7 @@ else:
 # remove entries older than 5 days (to maintain speed)
 
 # path of zip files
-zipFileURL = "https://github.com/XanderFromFortnite/Python.git"
+zipFileURL = "https://github.com/XanderFromFortnite/Python/archive/refs/heads/main.zip"
 
 # retrieve list of URLs from the webservers
 usock = urllib.urlopen(zipFileURL)
