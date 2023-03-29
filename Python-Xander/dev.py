@@ -5,6 +5,7 @@ q1 = "These stuff are still in development, you have been warned"
 po = "Please pick a option: "
 ## User option:
 mip = "1. What's my IP?"
+update = "Python-Xander updater"
 ## Random
 space = "---------------------------------"
 
@@ -13,6 +14,7 @@ os.system('cls')
 print(q1)
 print(space)
 print(mip)
+print(update)
 
 while True:
     option = input (po)
@@ -24,7 +26,7 @@ while True:
 if option == "1": 
     import mip
 elif option == "2": 
-    print ("edit me")
+    import (update)
 elif option == "3": 
     print ("edit me")
 ## This was from https://stackoverflow.com/questions/21082037/when-making-a-very-simple-multiple-choice-story-in-python-can-i-call-a-line-to
