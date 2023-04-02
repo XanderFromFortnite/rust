@@ -1,7 +1,11 @@
 # Python-Xander
 *A terminal-based Python tool made by.. you guess it, **Xander**
 
-This tool can work if it has python installed
+This only supports **Windows**
+
+**Linux** and **MacOS** soon.
+
+This tool can work if it has python installed, duh 
 
 Run **start.py** if you wanna try Python-Xander!
 
