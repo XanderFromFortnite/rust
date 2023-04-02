@@ -5,7 +5,7 @@ import signal
 
 ipt = "Your ip address is: "
 
-print (ipt)
+print(ipt)
 (os.system('ipconfig'))
 
 signal.pause
