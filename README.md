@@ -1,4 +1,4 @@
-# Python-Xander
+# [Python](https://www.python.org)-[Xander](https://wlo.link/@DefenderXander)
 *A terminal-based Python tool made by.. you guess it, **Xander**
 
 This only supports **Windows**, **Linux**
