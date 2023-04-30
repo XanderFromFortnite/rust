@@ -4,7 +4,7 @@ import os
 os.system('clear')
 
 po = "Type 1 to go back: "
-print("I said that this was coming soon...")
+print("If you're seeing this message, that mean the devs haven't even started making this option yet")
 
 while True:
     option = input (po)

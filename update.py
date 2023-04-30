@@ -6,24 +6,23 @@ beta = "2. Update to the beta channel"
 default = "3. Update to the stable channel"
 back = "4. Go back"
 
-os.system('cls')
+os.system('clear')
 
-print(pickoption)
 print(dev)
 print(beta)
 print(default)
 print(back)
 
+while True:
+    option = input (pickoption)
+    if option in ['1', '2', '3', '4']:
+        break
 
-input = input (pickoption)
-if input in ['1', '2', '3', '4']
-break
-
-if option == '1'
-import dev_update
-elif option == '2'
-import beta_update
-elif option == '3'
-import default_update
-elif option == '4'
-import start
+if option == "1":
+    import csoonote
+elif option == "2":
+    import csoonote
+elif option == "3":
+    import csoonote
+elif option == "4":
+    import start

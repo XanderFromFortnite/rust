@@ -7,7 +7,7 @@ po = "Please pick a option: "
 dev = "1. Working-in-progress builds"
 csoon = "2. COMING SOON"
 cal = "3. Calculator"
-mip = ”4. "What's my ip address?"
+mip = "4. What is my ip address?"
 ## Random
 space = "---------------------------------"
 
@@ -28,12 +28,12 @@ while True:
         break
 # process the input
 if option == "1":
-    import devlinux
+    import dev
 elif option == "2":
     import csoon
 elif option == "3":
-    import callinux
+    import cal
 elif option == "4":
-    import miplinux
+    import mip
     
 ## This was from https://stackoverflow.com/questions/21082037/when-making-a-very-simple-multiple-choice-story-in-python-can-i-call-a-line-to
