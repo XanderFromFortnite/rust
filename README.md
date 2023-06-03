@@ -6,6 +6,4 @@ This only supports **Linux**
 Wanna help?
 [Discussions](https://github.com/XanderFromFortnite/rust/discussions).
 
-Download Python-Xander [here](https://github.com/XanderFromFortnite/rust/releases).
-
 Note: This project is just a "fun hobby" i guess, idk how to describe it.
